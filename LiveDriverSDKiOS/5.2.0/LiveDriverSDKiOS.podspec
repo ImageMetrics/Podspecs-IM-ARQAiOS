@@ -73,7 +73,7 @@ LICENSE
 }
   s.homepage = 'http://image-metrics.com/'
   s.summary = 'LiveDriverSDKiOS framework'
-  s.source = { :http => 'https://nexus.apps.image-metrics.net/repository/pods-im-arqaios/LiveDriverSDKiOS-5.2.0+50758.6c2bc6490cbb.ARDemoQA.zip'}
+  s.source = { :http => 'https://nexus.apps.image-metrics.net/repository/pods-im-arqaios/LiveDriverSDKiOS-5.2.0+50759.960794264636.ARDemoQA.zip'}
 
   # Platform
   s.platform = :ios, '10.0'
